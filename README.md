@@ -53,3 +53,7 @@ _Schematic Editor View (w/ comments & text for beginners to understand because I
 | Resistor|	280 Ohms|	R2|	1|	100|	280|	0.0031|	0.31|	Resistor_SMD:R_0805_2012Metric|	FRC0805F2800TS|	[Link](https://www.lcsc.com/product-detail/C2960739.html?s_z=n_q_t_resistor&spm=wm.fly.bg.0.xh___wm.ssy.tc.0.tz&lcsc_vid=QQVaAVJeTlJdUVBVE1hcBVFWEwcNBVxeQwAPA1YHFQMxVlNeRlhXVFBXQVJaVTsOAxUeFF5JWBYZEEoKFBINSQcJGk4eAhYVGA8PCycDGRULFUsLDjEcCA4DFBVBAwESFggC) |
 | TPS79333|	Regulator|	U1|	1|	5|	TPS79333-EP	|0.3|	1.52|	Package_TO_SOT_SMD:SOT-23-5|	TPS79333DBVR|	[Link](https://www.lcsc.com/product-detail/C9840.html?s_z=n_q_TPS79333&spm=wm.fly.bg.1.xh&lcsc_vid=QQVaAVJeTlJdUVBVE1hcBVFWEwcNBVxeQwAPA1YHFQMxVlNeRlhXVFNXRlNYVzsOAxUeFF5JWBYZEEoKFBINSQcJGk4eFQsCAgIaSgADAwAHC0slQlReXlxQRVVADxALGw%3D%3D) | 
 | **Total**|  |  | 			**9**	|  |  |  |			**6.13**  | 
+
+----
+
+<img width="1410" height="2000" alt="TPS79333 Regulator Board" src="https://github.com/user-attachments/assets/0b8f08eb-441b-4d28-9dd6-68daa8b683b5" />
