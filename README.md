@@ -52,9 +52,9 @@ _Schematic Editor View (w/ comments & text for beginners to understand because I
 |Resistor|	649 Ohms|	R1|	1|100|		649|	0.001|	0.1|	Resistor_SMD:R_0805_2012Metric|	HRC0805F6490FNTN|	[Link](https://www.lcsc.com/product-detail/C55098624.html?s_z=n_q_t_resistor&spm=wm.fly.bg.5.xh___wm.ssy.tc.0.tz&lcsc_vid=QQVaAVJeTlJdUVBVE1hcBVFWEwcNBVxeQwAPA1YHFQMxVlNeRlhXVFBXQVJaVTsOAxUeFF5JWBYZEEoKFBINSQcJGk4eAhYVGA8PCycDGRULFUsLDjEcCA4DFBVBAwESFggC) | 
 | Resistor|	280 Ohms|	R2|	1|	100|	280|	0.0031|	0.31|	Resistor_SMD:R_0805_2012Metric|	FRC0805F2800TS|	[Link](https://www.lcsc.com/product-detail/C2960739.html?s_z=n_q_t_resistor&spm=wm.fly.bg.0.xh___wm.ssy.tc.0.tz&lcsc_vid=QQVaAVJeTlJdUVBVE1hcBVFWEwcNBVxeQwAPA1YHFQMxVlNeRlhXVFBXQVJaVTsOAxUeFF5JWBYZEEoKFBINSQcJGk4eAhYVGA8PCycDGRULFUsLDjEcCA4DFBVBAwESFggC) |
 | TPS79333|	Regulator|	U1|	1|	5|	TPS79333-EP	|0.3|	1.52|	Package_TO_SOT_SMD:SOT-23-5|	TPS79333DBVR|	[Link](https://www.lcsc.com/product-detail/C9840.html?s_z=n_q_TPS79333&spm=wm.fly.bg.1.xh&lcsc_vid=QQVaAVJeTlJdUVBVE1hcBVFWEwcNBVxeQwAPA1YHFQMxVlNeRlhXVFNXRlNYVzsOAxUeFF5JWBYZEEoKFBINSQcJGk4eFQsCAgIaSgADAwAHC0slQlReXlxQRVVADxALGw%3D%3D) | 
-| PCB Fabrication | Producing PCB from JLCPCB | |  1 | | | 2 | 2 | | | |
+| PCB Fabrication | Producing PCB from JLCPCB | |  1 | | | 4 | 4 | | | |
 | PCB Fabrication | Producing PCB from JLCPCB | |  1 | | | 3.30 | 3.30 | | | |
-| **Total**|  |  | 			**11**	|  |  |  |			**11.43**  | 
+| **Total**|  |  | 			**11**	|  |  |  |			**13.43**  | 
 
 ----
 
